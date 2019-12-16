@@ -1,0 +1,1 @@
+pandoc -s paper_3nd.md -o paper_3nd.docx
